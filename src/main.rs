@@ -1,9 +1,11 @@
+
+
 use gl::types::*;
 use glfw::{Action, Context, Key};
 use std::ffi::CString;
 use std::fmt;
 use std::mem;
-use std::mem::size_of;
+
 use std::ptr;
 use std::str;
 
