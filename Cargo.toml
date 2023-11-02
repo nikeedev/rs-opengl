@@ -4,7 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 [dependencies]
-glfw = "0.53.0"
 glow = "0.13.0"
 glutin = { version = "0.31.1" }
 glutin-winit = "0.4.2"
+winit = "0.29"
