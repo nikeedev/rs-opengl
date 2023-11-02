@@ -817,8 +817,6 @@ dependencies = [
  "glow",
  "glutin",
  "glutin-winit",
- "wasm-bindgen",
- "web-sys",
 ]
 
 [[package]]
